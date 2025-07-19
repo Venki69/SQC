@@ -2,3 +2,4 @@ flask
 numpy
 scipy
 gunicorn
+flask_cors
